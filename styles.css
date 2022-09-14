@@ -18,7 +18,7 @@ body {
 
   .options {
     max-width: 800px;
-    padding: 40px 0;
+    padding: 40px 10px;
     margin: 0 auto;
     background-color: cadetblue;
     display: flex;
